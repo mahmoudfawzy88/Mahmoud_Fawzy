@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mahmoud Fawzy</h1>
+<h1 align="center">Hi, I'm Mahmoud Fawzy</h1>
 
 <h3 align="center">💻 Front-End Developer | 🎓 Computer Science Student</h3>
 
